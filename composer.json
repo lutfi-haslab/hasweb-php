@@ -1,0 +1,16 @@
+{
+    "name": "hasweb/php",
+    "description": "Haslab PHP Framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lutfi-haslab",
+            "email": "work.lutfiikbalmajid@gmail.com"
+        }
+    ],
+    "require": {}
+}
